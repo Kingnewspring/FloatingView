@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FloatingView</string>
+
+    <string name="click_show">点击我展示</string>
+    <string name="click_dismiss">点击我消失</string>
+    <string name="action_settings">Settings</string>
+</resources>
