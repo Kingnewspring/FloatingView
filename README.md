@@ -4,7 +4,7 @@ a floatingView can move to anywhere,and can click to another pager,we can contro
 # Demo
 ![](https://github.com/Kingnewspring/FloatingView/raw/master/floatingview.gif)
 
-#Use
+# How to Use
 ### New a floatingView
 ```Java
 floatingView = new FloatingView(MainActivity.this);
